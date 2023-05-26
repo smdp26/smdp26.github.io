@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soumyadeep Paul</title>
+    <link>https://smdp26.github.io/</link>
+    <description>Recent content on Soumyadeep Paul</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 26 May 2023 11:50:35 +0530</lastBuildDate><atom:link href="https://smdp26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hobbies</title>
+      <link>https://smdp26.github.io/hobbies/</link>
+      <pubDate>Fri, 26 May 2023 19:04:27 +0530</pubDate>
+      
+      <guid>https://smdp26.github.io/hobbies/</guid>
+      <description>Hobbies Sometimes I make electronic music and do sound designing for games.
+You can check out some of my music here.
+These are some games for which made the sound tracks and/or sound effects: https://smdp.itch.io/.</description>
+    </item>
+    
+  </channel>
+</rss>
