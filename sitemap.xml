@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smdp26.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-05-26T11:50:35+05:30</lastmod>
   </url><url>
-    <loc>https://smdp26.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://smdp26.github.io/coursework/</loc>
+    <loc>/coursework/</loc>
   </url><url>
-    <loc>https://smdp26.github.io/hobbies/</loc>
+    <loc>/hobbies/</loc>
   </url><url>
-    <loc>https://smdp26.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

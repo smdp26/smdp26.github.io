@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soumyadeep Paul</title>
-    <link>https://smdp26.github.io/</link>
+    <link>/</link>
     <description>Recent content on Soumyadeep Paul</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 May 2023 11:50:35 +0530</lastBuildDate>
-    <atom:link href="https://smdp26.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coursework</title>
-      <link>https://smdp26.github.io/coursework/</link>
+      <link>/coursework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://smdp26.github.io/coursework/</guid>
+      <guid>/coursework/</guid>
       <description> TIFR Computer Science Mathematical Foundations of Computer Science Probability Algorithms and Data Structures Chennai Mathematical Institute Computer Science Introduction to Programming (Haskell) Advanced Programming Discrete Mathematics Design and Analysis of Algorithms Theory of Computation Complexity Theory Programming Language Concepts Quantum Algorithmic Thinking Algorithmic Coding Theory Theoretical Foundations of Machine Learning Combinatorial Optimization Approximation Algorithms Quantum Information Theory Mathematics Analysis 1 (Real Analysis) Algebra 1 (Linear Algebra) Algebra 2 (Group Theory) Analysis 2 (Euclidean Spaces) Probability Theory Algebra 3 (Ring and Field Theory) Analysis 3 (Functional Analysis) Calculus Complex Analysis Differential Equations Topology Stochastic Processes Miscellaneous English Classical Mechanics Economics </description>
     </item>
     <item>
       <title>Hobbies</title>
-      <link>https://smdp26.github.io/hobbies/</link>
+      <link>/hobbies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://smdp26.github.io/hobbies/</guid>
+      <guid>/hobbies/</guid>
       <description>Sometimes, in my free time, I make electronic music and do sound designing for games.&#xA;You can check out some of my music here.&#xA;These are some games for which I made the sound tracks and/or sound effects: smdp.itch.io.</description>
     </item>
   </channel>
