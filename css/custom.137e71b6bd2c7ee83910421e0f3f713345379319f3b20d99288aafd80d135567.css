@@ -1,0 +1,19 @@
+::selection {
+  /*background: #e5co7b;*/
+  background: #74A1B0;
+  color: var(--background);
+}
+
+a {
+  border-bottom: 2.5px solid var(--content-secondary);
+  padding-left: 2px;
+  padding-right: 2px;
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  background-color: var(--content-secondary);
+  color: var(--background);
+}
+
