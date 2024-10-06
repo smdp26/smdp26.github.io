@@ -17,3 +17,8 @@ a:hover {
   color: var(--background);
 }
 
+.highlight span{
+  background-color: var(--content-tertiary);
+  /*color: var(--content-primary);*/
+}
+
