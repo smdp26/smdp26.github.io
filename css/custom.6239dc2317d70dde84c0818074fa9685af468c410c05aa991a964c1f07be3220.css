@@ -22,3 +22,9 @@ a:hover {
   /*color: var(--content-primary);*/
 }
 
+blockquote{
+  margin:1.5em 10px;
+  background-color:#E8EAEE;
+  color:#5F6A81;
+  border-left: solid 4px;
+}
