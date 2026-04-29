@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Soumyadeep Paul</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Soumyadeep Paul</description>
+    <title>Music on Soumyadeep Paul</title>
+    <link>//localhost:1313/tags/music/</link>
+    <description>Recent content in Music on Soumyadeep Paul</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taking baby steps into weirdo music</title>
       <link>//localhost:1313/blog/posts/1/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/blog/posts/1/</guid>
       <description>&lt;p&gt;I happen to talk a lot about music and I end up recommending a lot albums to my friends.&#xA;They don&amp;rsquo;t end up liking most of the songs/albums I recommend. I don&amp;rsquo;t think this is because my taste is bad. Instead, I think this is the case since people are not used to listening weirder music.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Favourite albums&#34; src=&#34; out_of_touch.jpg#small&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&#xA;So I decided to list some albums which I like and I think are a good introduction to non-standard music without being too weird :)&#xA;I have also added some more albums at the end of each of the albums if you liked the album and want to listen to something a similar.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hobbies</title>
-      <link>//localhost:1313/hobbies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hobbies/</guid>
-      <description>&lt;p&gt;Sometimes, in my free time, I make electronic music and do sound designing for games.&#xA;You can check out some of my music &lt;a href=&#34;https://sodacity.bandcamp.com/&#34; title=&#34;Music&#34;&gt;here&lt;/a&gt;.&#xA;These are some games for which I made the sound tracks and/or sound effects: &lt;a href=&#34;https://sodacity.itch.io/&#34; title=&#34;itch.io&#34;&gt;itch.io&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I also like to listen to different kinds of music. Here are some of my favourite albums.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34; img-small&#34;&gt;&#xA;&#xA;    &lt;div&gt;&#xA;        &lt;img loading=&#34;lazy&#34; alt=&#34;Favourite albums&#34; src=&#34; /images/music.png#small&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;    &#xA;&lt;/figure&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
